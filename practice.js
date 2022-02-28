@@ -1,4 +1,4 @@
-document.querySelector("h1").innerHTML="Beybars CS2117";
+document.querySelector("h1").innerHTML="Akmyrza CS2117";
 
 const now=new Date();
 document.write("Year: " + now.getFullYear() + "<br/>");
